@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[](https://github.com/jemuky/github-readme-stats)
+[](https://github.com/jemuky/github-readme-stats?cache_bust=1&theme=nightowl&langs_count=10)
